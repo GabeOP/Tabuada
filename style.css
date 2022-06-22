@@ -10,6 +10,7 @@ body{
     top: 25%;
     left: 50%;
     transform: translate(-50%, -50%);
+    min-width: max-content;
 }
 #divisao, #multiplicacao, #expoente{
     border-right: 2px solid rgba(115, 115, 115, 0.757);
