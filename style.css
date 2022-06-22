@@ -1,0 +1,17 @@
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+body{
+    background-color: aliceblue;
+    width: 100%;
+}
+.container{
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#divisao, #multiplicacao, #expoente{
+    border-right: 2px solid rgba(115, 115, 115, 0.757);
+    padding-right: 18px;
+}
